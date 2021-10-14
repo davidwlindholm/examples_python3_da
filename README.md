@@ -1,5 +1,5 @@
 # Kodeeksempler til Python 3
-Dette repo indeholder diverse kodeeksempler til Java 8. Alt kode er licenseret under AGPL.
+Dette repo indeholder diverse kodeeksempler til Python 3. Alt kode er licenseret under AGPL.
 
 # Kategorier
 ## Basale Eksempler
