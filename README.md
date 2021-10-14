@@ -13,4 +13,11 @@ Eksempler på implementation af de forskellige typer af forbindelser mellem obje
 
 ## Fil IO, Databaser, og lignende
 ## GUI
+## Designmønstre
+
+#### Model View Controller
+Implementation af en brugergrænseflade efter MVC mønstret.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Designmoenstre/Model%20View%20Controller)
+
 ## Algoritmer
