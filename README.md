@@ -22,12 +22,12 @@ Implementation af en brugergrænseflade efter MVC mønstret.
 
 ## Algoritmer
 
-### Sekventiel Søgning
+#### Sekventiel Søgning
 Implementation af sekventiel søgning
 
 [Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Algoritmer/Sekventiel%20Soegning)
 
-### Binær Søgning
+#### Binær Søgning
 Implementation af binær søgning, såvel som en sammenligningsfunktion der hjælper med at sortere tekst alfabetisk.
 
 [Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Algoritmer/Binaer%20Soegning)
