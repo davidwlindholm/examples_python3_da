@@ -3,7 +3,6 @@ Dette repo indeholder diverse kodeeksempler til Python 3. Alt kode er licenseret
 
 # Kategorier
 ## Basale Eksempler
-## Videregående Eksempler
 ## Objekt-Orientering
 
 #### Forbindelser
@@ -31,3 +30,11 @@ Implementation af sekventiel søgning
 Implementation af binær søgning, såvel som en sammenligningsfunktion der hjælper med at sortere tekst alfabetisk.
 
 [Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Algoritmer/Binaer%20Soegning)
+
+## Videregående Eksempler
+
+#### Compiling
+Eksempel på kald til Pythons kompileringsfunktion, som normalt kører automatisk. Med dette kode kan
+Python-filer kompileres på forhånd for at opnå en lidt hurtigere opstartstid i begyndelsen.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Videregaaende Eksempler/Compiling)
