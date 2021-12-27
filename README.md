@@ -37,4 +37,4 @@ Implementation af binær søgning, såvel som en sammenligningsfunktion der hjæ
 Eksempel på kald til Pythons kompileringsfunktion, som normalt kører automatisk. Med dette kode kan
 Python-filer kompileres på forhånd for at opnå en lidt hurtigere opstartstid i begyndelsen.
 
-[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Videregaaende Eksempler/Compiling)
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Videregaaende%20Eksempler/Compiling)
