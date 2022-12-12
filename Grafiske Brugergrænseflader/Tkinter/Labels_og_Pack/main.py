@@ -7,7 +7,7 @@
 ##
 
 ##
-# Eksempel på labels til tekst, og 
+# Eksempel på labels til tekst, og anvendelse af Pack
 ##
 
 import tkinter as tk

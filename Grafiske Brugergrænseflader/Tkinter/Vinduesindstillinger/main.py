@@ -14,6 +14,7 @@ import tkinter as tk
 
 vindue = tk.Tk() # Opret det grundlæggende vindueselement
 
+
 # Giv vinduet en titel
 vindue.title("Fisk")
 
@@ -31,8 +32,5 @@ vindue.resizable(False, False)
 # Bemærk: Brug sparsomt, til vigtige vinduer
 vindue.attributes("-topmost", 1)
 
-
-#vindue.attributes("-fullscreen", 1)
-vindue.wm_state('zoomed')
 
 vindue.mainloop() # Mainloop sørger for at vinduet åbner og forbliver åbent
