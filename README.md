@@ -11,13 +11,63 @@ Eksempler på implementation af de forskellige typer af forbindelser mellem obje
 [Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Objekt%20Orientering/Forbindelser)
 
 ## Fil IO, Databaser, og lignende
-## GUI
+
 ## Designmønstre
 
 #### Model View Controller
 Implementation af en brugergrænseflade efter MVC mønstret.
 
 [Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Designmoenstre/Model%20View%20Controller)
+
+## Grafiske Brugergrænseflader
+
+### Tkinter
+
+#### Tomt vindue
+Eksempel på det simpleste Tkinter program: Et tomt vindue.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/Tomt_vindue)
+
+#### Vinduesindstillinger
+Eksempel på indstillingerne for et vindue i Tkinter.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/Vinduesindstillinger)
+
+#### Labels og Pack
+Eksempel på labels til tekst, og anvendelse af Pack.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/Labels_og_Pack)
+
+#### Juster tekst
+Eksempel på hvordan tekst i labels kan justeres til venstre, højre, osv. 
+Bemærk at denne metode kun er nødvendig når pack anvendes.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/Juster_tekst)
+
+#### Simpel knap
+Eksempel på en knap og dens tilhørende event listener.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/Simpel_knap)
+
+#### Bind knap og tast til samme funktion
+Eksempel på hvordan en knap og en tast på tastaturet, kan anvende samme event listener
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/Bind_knap_og_tast)
+
+#### Ændre komponenter
+Eksempel på ændring af komponenters tekst og tilstand.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/%C3%86ndre_komponenter)
+
+#### Fuldskærm
+Eksempel på hvordan et vindue sættes i fuldskærm.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/Fuld_sk%C3%A6rm)
+
+#### Evaluer input
+Eksempel på hvordan man kan evaluere input mens der skrives.
+
+[Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Grafiske%20Brugergr%C3%A6nseflader/Tkinter/Evaluer_input)
 
 ## Algoritmer
 
@@ -38,3 +88,5 @@ Eksempel på kald til Pythons kompileringsfunktion, som normalt kører automatis
 Python-filer kompileres på forhånd for at opnå en lidt hurtigere opstartstid i begyndelsen.
 
 [Kode](https://github.com/davidwlindholm/examples_python3_da/tree/main/Videregaaende%20Eksempler/Compiling)
+
+
